@@ -1,0 +1,3 @@
+myname;Suite;
+aaaaaa;Simple;
+aaaaaa;Double;
